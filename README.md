@@ -210,3 +210,7 @@ Reviewed btop's `src/btop.cpp` collection/draw runner, `src/btop_shared.hpp` col
 busb uses the same useful separation of capture/model/rendering and a panel-based dashboard,
 implemented independently in C++20/ncurses. It is not a btop fork and contains no copied btop source.
 DFU decoding follows the [USB DFU 1.1 specification](https://www.usb.org/sites/default/files/DFU_1.1.pdf).
+
+## WEAZL and WE4ZL branding
+
+Forking or reusing code does not grant permission to brand or market your own product with the WEAZL™ or WE4ZL™ wordmarks or the weazl head logo. See the [trademark and artwork notice](TRADEMARKS.md).
